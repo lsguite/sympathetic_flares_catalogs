@@ -1,4 +1,4 @@
-# Sympathetic Flares
+# Sympathetic Flares Database
 
 ## Description:
 This is a catalog of candidate sympathetic flares identified based on observations from three different instruments, i.e. SDO/AIA, RHESSI and Solar Orbiter/STIX. For each instrument, each row in the table represents a pair of sympathetic flares candidates. The table lists the flares ID, the start, peak and end times and the coordinates (longitude and latitude in heliographic Stonyhurst and Carrington). Additional information specific to each instrument is listed below.
