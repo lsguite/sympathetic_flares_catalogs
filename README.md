@@ -16,7 +16,7 @@ Authors:
 Louis-Simon Guité, Antoine Strugarek, Paul Charbonneau
 
 ### If this data is used for other studies, please cite the following paper: 
-Flaring together: A preferred angular separation between sympathetic flares on the Sun \\
+Flaring together: A preferred angular separation between sympathetic flares on the Sun \n
 L.-S.  Guité, A.  Strugarek, P.  Charbonneau \\
 A&A 694 A74 (2025) \\
 DOI: 10.1051/0004-6361/202452381
